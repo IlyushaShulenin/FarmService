@@ -1,1 +1,6 @@
-
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5432/farm
+    username: postgres
+    password: postgre1488rp
+    driver-class-name: org.postgresql.Driver
